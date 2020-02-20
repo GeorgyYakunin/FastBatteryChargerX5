@@ -1,0 +1,23 @@
+R_DEF: Internal format may change without notice
+local
+attr? mask
+attr? porterduffxfermode
+id ADD
+id CLEAR
+id DARKEN
+id DST
+id DST_ATOP
+id DST_IN
+id DST_OUT
+id DST_OVER
+id LIGHTEN
+id MULTIPLY
+id OVERLAY
+id SCREEN
+id SRC
+id SRC_ATOP
+id SRC_IN
+id SRC_OUT
+id SRC_OVER
+id XOR
+styleable MaskableLayout mask porterduffxfermode

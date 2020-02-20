@@ -1,0 +1,11 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\AndroidAppsByGeorgy\Reskins\NewFastBatteryChargerAndSaver\libraryMaskLayout\src\main\AndroidManifest.xml:1:1-4:12
+INJECTED from E:\AndroidAppsByGeorgy\Reskins\NewFastBatteryChargerAndSaver\libraryMaskLayout\src\main\AndroidManifest.xml:1:1-4:12
+INJECTED from E:\AndroidAppsByGeorgy\Reskins\NewFastBatteryChargerAndSaver\libraryMaskLayout\src\main\AndroidManifest.xml:1:1-4:12
+	package
+		ADDED from E:\AndroidAppsByGeorgy\Reskins\NewFastBatteryChargerAndSaver\libraryMaskLayout\src\main\AndroidManifest.xml:1:11-67
+		INJECTED from E:\AndroidAppsByGeorgy\Reskins\NewFastBatteryChargerAndSaver\libraryMaskLayout\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidAppsByGeorgy\Reskins\NewFastBatteryChargerAndSaver\libraryMaskLayout\src\main\AndroidManifest.xml
+application
+ADDED from E:\AndroidAppsByGeorgy\Reskins\NewFastBatteryChargerAndSaver\libraryMaskLayout\src\main\AndroidManifest.xml:3:5-20
